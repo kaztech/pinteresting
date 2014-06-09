@@ -39,7 +39,7 @@ end
 
 
 
-gem 'spring',       
+#gem 'spring'      
 
 
 
@@ -54,4 +54,3 @@ gem 'spring',
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
